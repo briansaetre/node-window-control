@@ -2,14 +2,6 @@
 
 Manage windows in Windows, macOS and ~~Linux~~(WIP)
 
-# Install
-
-To install this package, just run
-
-```bash
-$ npm install node-window-manager
-```
-
 # Quick start
 
 The following example shows how to get the currently focused window's title and hide it.
