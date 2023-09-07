@@ -1,13 +1,13 @@
-# node-window-control (forked from node-window-manger)
-
-Manage windows in Windows, macOS and ~~Linux~~(WIP)
+# node-window-control
+Manage windows in Windows and macOS.
+(forked from node-window-manger)
 
 # Quick start
 
 The following example shows how to get the currently focused window's title and hide it.
 
 ```javascript
-const { windowManager } = require("node-window-manager");
+const { windowManager } = require("node-window-control");
 
 const window = windowManager.getActiveWindow();
 
