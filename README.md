@@ -1,4 +1,4 @@
-# node-window-manager
+# node-window-control (forked from node-window-manger)
 
 Manage windows in Windows, macOS and ~~Linux~~(WIP)
 
