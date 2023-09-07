@@ -7,7 +7,7 @@ Manage windows in Windows, macOS and ~~Linux~~(WIP)
 To install this package, just run
 
 ```bash
-$ npm install node-window-manager
+$ npm install @briansaetre/node-window-manager
 ```
 
 # Quick start
